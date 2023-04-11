@@ -1,6 +1,8 @@
 10 days travel
-
-
+1 - Sapporo
+2 - Sendai
+3 - Tokyo
+4 - Yokohama
 5 - kobe
 6 - osaka
 7 - kitakushu 
